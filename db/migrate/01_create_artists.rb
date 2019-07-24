@@ -8,7 +8,7 @@ class CraeteArtists < ActiveRecord::Migration[5.2]
       t.string :hometown
       end
     end 
-  end
+  #end
   
   # def up 
     
