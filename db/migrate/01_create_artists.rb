@@ -1,11 +1,15 @@
 class CraeteArtists < ActiveRecord::Migration[5.2]
   
-  def up 
+  def change 
     
   end
   
-  def down 
+  # def up 
     
-  end 
+  # end
+  
+  # def down 
+    
+  # end 
   
 end
